@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# Local generated files
+resume/*/*
+!resume/README.md
+output/*/*
+!output/README.md

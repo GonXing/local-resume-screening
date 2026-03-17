@@ -1,0 +1,116 @@
+{
+  "focus_areas": [
+    "financial-technology",
+    "artificial-intelligence",
+    "quantitative-research"
+  ],
+  "weights": {
+    "academic": 35,
+    "scholarship": 15,
+    "competition": 25,
+    "internship_project": 15,
+    "fit": 10
+  },
+  "experience_scoring": {
+    "relevant_internship": 4,
+    "general_internship": 2,
+    "relevant_project": 2,
+    "general_project": 1,
+    "research_bonus_per_item": 2,
+    "research_bonus_cap": 4
+  },
+  "thresholds": {
+    "interview": 75,
+    "hold": 60
+  },
+  "competition_tiers": {
+    "美国大学生数学建模竞赛 (MCM/ICM)": "A",
+    "全国大学生数学建模竞赛 (CUMCM)": "A",
+    "全国大学生统计建模大赛": "A",
+    "CFA协会全球投资分析大赛 (CFA Research Challenge)": "A",
+    "罗特曼国际交易大赛 (Rotman)": "A",
+    "ACM-ICPC 国际大学生程序设计竞赛": "A",
+    "“成都 80”金融科技设计与开发大赛": "A",
+    "中国国际大学生创新大赛 (原互联网+)": "A",
+    "“挑战杯”全国大学生课外学术科技作品竞赛": "A",
+    "中国高校计算机大赛-人工智能创意赛": "A",
+    "蓝桥杯全国软件和信息技术专业人才大赛": "B",
+    "“工行杯”全国大学生金融科技创新大赛": "B",
+    "“东方财富杯”全国大学生金融挑战赛": "B",
+    "全国大学生数学竞赛 (CMC)": "B",
+    "GMC 全球管理挑战赛": "B",
+    "“正大杯”全国大学生市场调查与分析大赛": "B",
+    "中国大学生计算机设计大赛": "B",
+    "招商银行数字金融训练营": "C",
+    "Kaggle 数据建模竞赛": "C",
+    "校级金融模拟交易赛": "C",
+    "院级案例分析大赛": "C"
+  },
+  "competition_aliases": {
+    "全国大学生统计建模大赛": "全国大学生统计建模大赛",
+    "统计建模大赛": "全国大学生统计建模大赛",
+    "东方财富杯": "“东方财富杯”全国大学生金融挑战赛",
+    "全国大学生金融挑战赛": "“东方财富杯”全国大学生金融挑战赛",
+    "市场调查与分析大赛": "“正大杯”全国大学生市场调查与分析大赛",
+    "正大杯": "“正大杯”全国大学生市场调查与分析大赛",
+    "中国高校计算机大赛-人工智能创意赛": "中国高校计算机大赛-人工智能创意赛",
+    "人工智能创意赛": "中国高校计算机大赛-人工智能创意赛",
+    "中国大学生计算机设计大赛": "中国大学生计算机设计大赛",
+    "计算机设计大赛": "中国大学生计算机设计大赛",
+    "数字金融训练营": "招商银行数字金融训练营",
+    "招商银行第八季数字金融训练营": "招商银行数字金融训练营",
+    "招商银行数字金融训练营": "招商银行数字金融训练营",
+    "Kaggle": "Kaggle 数据建模竞赛"
+  },
+  "competition_tier_scores": {
+    "A": 12,
+    "B": 7,
+    "C": 3,
+    "UNKNOWN": 1
+  },
+  "scholarship_weights": {
+    "国家奖学金": 10,
+    "国家励志奖学金": 6,
+    "校级甲等奖学金 (一等)": 5,
+    "校级乙等奖学金 (二等)": 3,
+    "校级丙等奖学金 (三等)": 2,
+    "光华学子综合素质50强": 8,
+    "单项奖学金 (科研/创新等)": 2
+  },
+  "fit_keywords": {
+    "high_value": [
+      "quant",
+      "quantitative",
+      "量化",
+      "python",
+      "machine learning",
+      "机器学习",
+      "deep learning",
+      "深度学习",
+      "ai",
+      "人工智能",
+      "data analysis",
+      "数据分析",
+      "backtest",
+      "回测",
+      "financial engineering",
+      "金融工程",
+      "fintech",
+      "金融科技"
+    ],
+    "medium_value": [
+      "statistics",
+      "统计",
+      "econometrics",
+      "计量",
+      "matlab",
+      "c++",
+      "algorithm",
+      "算法",
+      "research",
+      "科研",
+      "investment",
+      "投资"
+    ]
+  }
+}
